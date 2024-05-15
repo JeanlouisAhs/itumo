@@ -1,6 +1,6 @@
 # itumo
 
 Find her the link to our  :
- - [Backend App)](https://github.com/JeanlouisAhs/itumo-app)
+ - [Backend App : itumo-server](https://github.com/JeanlouisAhs/itumo-app)
 
-- [Mobile App](https://github.com/JeanlouisAhs/itumo-server)
+- [Mobile App : itumo-app](https://github.com/JeanlouisAhs/itumo-server)
